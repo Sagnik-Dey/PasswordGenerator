@@ -19,6 +19,8 @@ pip install PyQt5
 ```
 ```bash
 pip install qt5-tools
+pip install pyperclip
+
 ```
 * Clone the repository
 * Run the app by -
